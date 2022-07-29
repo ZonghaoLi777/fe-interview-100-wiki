@@ -1,3 +1,3 @@
-# fe-interview-100-wiki
+# fe-interview-100
 
-前端面试100问，课程电子书
+前端面试100问
